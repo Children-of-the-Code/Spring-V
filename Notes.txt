@@ -1,0 +1,5 @@
+How do we write notes?
+handwritten is king - take this seriously
+formatting is king - take that seriously too
+    i prefer a hierarchical format that proceeds from major topic to smaller subsections, each of which results in
+    a certain pattern - a) what is x thing and b) why do we x thing
